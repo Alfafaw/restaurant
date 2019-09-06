@@ -2,7 +2,7 @@
 body {
 	background-color:#9b30ff;
 	font-family: arial, Tahoma, sans-serif;
-	color: #0000000;
+	color: #000000;
 }
 h1 {
 	color:#ffffff;
@@ -27,7 +27,7 @@ header {
  }
  footer {
 	 clear: both;
-	 background-color: #0000000;
+	 background-color: #000000;
 	 color: #ffffff;
 	 text-align: center;
 	 margin-left: 10%;
@@ -53,9 +53,9 @@ header {
 	 display: block;
 	 width: 150px;
 	 margin-right: 4px;
-	 color: #0000000;
+	 color: #000000;
 	 padding: 2px 4px 2px 4px;
-	 background-color: #fffff;
+	 background-color: #FFFFFF;
 	 text-decoration: none;
  }
  nav ul li a:hover {
